@@ -141,13 +141,16 @@ button:hover, button:focus {
 	text-align: right;
 }
 
+.main-navigation_page__header-item {
+	text-align: center;
+}
+
 .navigation-list {
 	list-style-type: none;
 }
 
 .navigation-list li {
 	display: inline-block;
-	marigin-left: 15px;
 }
 
 /* fallback*/
@@ -226,7 +229,8 @@ button:hover, button:focus {
 
 #logo {
 	width: 20px;
-	height: 20px;
+	height: 50px;
+	border-radius: 40%;
 }
 
 button

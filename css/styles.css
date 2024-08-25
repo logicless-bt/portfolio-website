@@ -187,7 +187,8 @@ button:hover, button:focus {
 
 #logo {
 	width: 20px;
-	height: 20px;
+	height: 50px;
+	border-radius: 25%;
 }
 
 button
