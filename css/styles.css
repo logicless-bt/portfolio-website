@@ -143,7 +143,6 @@ button:hover, button:focus {
 
 .navigation-list li {
 	display: inline-block;
-	marigin-left: 15px;
 }
 
 /* fallback*/
@@ -188,7 +187,7 @@ button:hover, button:focus {
 #logo {
 	width: 20px;
 	height: 50px;
-	border-radius: 25%;
+	border-radius: 40%;
 }
 
 button
